@@ -1,0 +1,11 @@
+{
+  "main": "exercicio-04.mongodb.js",
+  "scripts": {
+    "start": "node exercicio-04.mongodb.js",
+    "dev": "node exercicio-04.mongodb.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}
