@@ -1,0 +1,23 @@
+[
+  {
+    "_id": {
+      "$oid": "690f6e9939ebdc667f3bf1df"
+    },
+    "titulo": "Introdução ao NoSQL",
+    "autor": "Orion User",
+    "conteudo": "Este é o primeiro post, focando na base de dados MongoDB."
+  },
+  {
+    "_id": {
+      "$oid": "690f6e9939ebdc667f3bf1e0"
+    },
+    "titulo": "Flexibilidade de Schema",
+    "autor": "Orion User",
+    "conteudo": "MongoDB permite estruturas diferentes na mesma coleção.",
+    "tags": [
+      "nosql",
+      "flexivel",
+      "mongodb"
+    ]
+  }
+]
